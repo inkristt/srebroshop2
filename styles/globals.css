@@ -811,13 +811,15 @@ margin-top: 160px;
 }
 .success{
  height: 350px;
- margin: auto ;
+ display: flex;
+ justify-content: space-around;
  padding: 10px ;
 }
 .success h2{
  font-size: 17px;
 }
 .btn-container{
+ width: 200px;
  margin: auto;
 }
 .joj{
