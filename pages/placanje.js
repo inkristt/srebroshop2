@@ -10,7 +10,7 @@ import Image from"next/image"
 
 
 
-const placanje = () => {
+const Placanje = () => {
     const [ime, setime] = useState("")
     const [prezime, setprezime] = useState("")
     const [ulica, setulica] = useState("")
@@ -84,4 +84,4 @@ const placanje = () => {
   )
 }
 
-export default placanje
+export default Placanje
